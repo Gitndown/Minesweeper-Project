@@ -1,0 +1,17 @@
+#Plan for the project
+
+#Use C# to create a console app to setup the grid layout.
+-Map out what the grid should look like, a model to follow.
+-How many classes do I need?
+*Main.cs
+*Cell.cs
+\*Grid.cs
+
+#Which functions are needed?
+
+#Make the grid interactive
+-Create functions to manipulate the grid cells and print the outcomes during run time.
+-A function to uncover a cells contents:
+*Bomb
+*Number/neighbor
+\*Empty cell

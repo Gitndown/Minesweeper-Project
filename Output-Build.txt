@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Minesweeper, Configuration: Debug Any CPU ------
+1>Minesweeper -> C:\Users\1164536\Documents\c#\Minesweeper\bin\Debug\net6.0\Minesweeper.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
