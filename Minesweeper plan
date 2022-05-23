@@ -1,0 +1,18 @@
+#Plan for the project
+
+-Create a console app
+-Map out what the grid should look like, a model to follow.
+-How many classes do I need?
+*Main.cs
+*Cell.cs
+\*Grid.cs
+
+#Which functions are needed?
+
+#Make the grid interactive--->
+-Create private functions to create the grid cells and print the outcomes during run time.
+-A function to uncover a cells contents:
+*Bomb
+*Number/neighbor
+\*Empty cell
+-Create adjacent
