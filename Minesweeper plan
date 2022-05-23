@@ -1,18 +1,22 @@
 #Plan for the project
 
--Create a console app
--Map out what the grid should look like, a model to follow.
--How many classes do I need?
-*Main.cs
-*Cell.cs
-\*Grid.cs
+1. Create a console app
 
-#Which functions are needed?
+2. Map out what the grid should look like, a model to follow.
+   -How many classes do I need?
+   *Main.cs
+   *Cell.cs
+   \*Grid.cs
+   -Which functions are needed?
 
-#Make the grid interactive--->
--Create private functions to create the grid cells and print the outcomes during run time.
--A function to uncover a cells contents:
-*Bomb
-*Number/neighbor
-\*Empty cell
--Create adjacent
+3. Create 2 grids.
+   -private functions to create the grid cells
+   -A function to uncover a cells contents
+   *Bomb
+   *Number/neighbor
+   \*Empty cell
+
+4. Randomise bomb locations
+
+5. Create adjacent calculator
+   -calculate how many neighboring bombs a cell has.
