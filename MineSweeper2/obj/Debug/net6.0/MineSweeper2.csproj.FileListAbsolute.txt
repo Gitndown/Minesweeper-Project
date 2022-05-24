@@ -1,0 +1,15 @@
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\bin\Debug\net6.0\MineSweeper2.exe
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\bin\Debug\net6.0\MineSweeper2.deps.json
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\bin\Debug\net6.0\MineSweeper2.runtimeconfig.json
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\bin\Debug\net6.0\MineSweeper2.dll
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\bin\Debug\net6.0\MineSweeper2.pdb
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\obj\Debug\net6.0\MineSweeper2.csproj.AssemblyReference.cache
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\obj\Debug\net6.0\MineSweeper2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\obj\Debug\net6.0\MineSweeper2.AssemblyInfoInputs.cache
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\obj\Debug\net6.0\MineSweeper2.AssemblyInfo.cs
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\obj\Debug\net6.0\MineSweeper2.csproj.CoreCompileInputs.cache
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\obj\Debug\net6.0\MineSweeper2.dll
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\obj\Debug\net6.0\refint\MineSweeper2.dll
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\obj\Debug\net6.0\MineSweeper2.pdb
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\obj\Debug\net6.0\MineSweeper2.genruntimeconfig.cache
+C:\Users\1164536\Documents\WooliesX-Nology\Projects\Minesweeper-Project\MineSweeper2\obj\Debug\net6.0\ref\MineSweeper2.dll
