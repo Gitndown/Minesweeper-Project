@@ -4,20 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MineSweeper
+namespace MineSweeper2
 {
-    public class Grid
+    public class UserInput
     {
-        
-        
-
-
-        public Grid()
-        {
-     
-        }
     }
-
-    
-
 }

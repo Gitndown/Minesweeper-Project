@@ -3,11 +3,22 @@
 1. Create a console app
 
 2. Map out what the grid should look like, a model to follow.
-   -How many classes do I need?
-   *Main.cs
-   *Cell.cs
-   \*Grid.cs
-   -Which functions are needed?
+
+How many classes do I need:
+-Grid
+-Cell
+-Mine
+
+-Create the Grid
+-Create the cells for the grid
+
+-Add properties to the cells
+-Write methods to access specific cells
+
+*Main.cs
+*Cell.cs  
+ \*Grid.cs
+-Which functions are needed?
 
 3. Create 2 grids.
    -private functions to create the grid cells
